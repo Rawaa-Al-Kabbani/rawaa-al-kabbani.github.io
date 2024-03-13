@@ -1,0 +1,14 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV",
+  "main": "index.html",
+  "author": "Rawaa Al Kabbani",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  },
+  "scripts": {
+    "format": "prettier . --write"
+  }
+}
